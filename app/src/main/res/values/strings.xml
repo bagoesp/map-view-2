@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Map View 2</string>
+    <string-array name="lokasi_array">
+        <item>Aula</item>
+        <item>Ruang 302</item>
+        <item>Ruang 303</item>
+        <item>Ruang 304</item>
+        <item>Ruang 305</item>
+        <item>Ruang 306</item>
+        <item>Ruang 307</item>
+        <item>Lobi A</item>
+        <item>Lobi B</item>
+        <item>Lobi C</item>
+        <item>Toilet A</item>
+        <item>Toilet B</item>
+    </string-array>
+</resources>
